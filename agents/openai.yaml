@@ -1,0 +1,4 @@
+interface:
+  display_name: "开头写法"
+  short_description: "从观点、文章和口播稿中挑选合适写法，生成有吸引力且能接住正文的开头"
+  default_prompt: "用 $opening-hook 根据我的观点或现稿，选出合适的开头写法，给一个主推和两个不同方向的备选，并接回原文。"

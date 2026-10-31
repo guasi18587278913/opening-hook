@@ -1,0 +1,718 @@
+{
+  "fetched_on": "2026-10-24",
+  "source_tool": "gbrain_sc_media.get_page",
+  "source_slug": "concepts/opening_hook",
+  "source_content_hash": "7ca4e6653cc37ce4262592ff492df0a722473ca038218545aba1aa3171d02096",
+  "snapshot_sha256": "c59663328f443f2cecc513c62f60d776e84548848206d9d127cb840306ddbd0c",
+  "method_count": 37,
+  "sections": [
+    {
+      "id": 1,
+      "title": "反着说，打破常识",
+      "sha256": "1c88a8401712ac09bdb907dc9d9d753c0f195b09102347ae0636f2b262f0ddf2",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/zsxq-82258841211551482",
+        "sources/community/zsxq-45548581245488218",
+        "sources/community/zsxq-45548581454845588"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "前后对比、高低反差",
+      "sha256": "514f658cad88edf756ffb64502c547079fc4330b384cfdc8e7e027ef2e0b3ec4",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "cases/community_template/xiaoe-b34ee2216fe54cf3",
+        "sources/course/xuehui-4448c2eec08c3188",
+        "sources/community/zsxq-82255152445552252"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "不对劲的人和事",
+      "sha256": "eb28c8540749f4f7c0212257def4adae0707c146d571d0b590dae297193a8e57",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/course/xuehui-a6a7e82d62229488",
+        "sources/course/xuehui-23dec172e64bd7e6"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "出人意料的结果",
+      "sha256": "2c17c12dfe32803cb8aaad6175304b3296a7f9248c68e11adfe4cc49d5a7c7ff",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/zsxq-14422821524521852",
+        "sources/community/zsxq-45544148248511448"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "嘴上反着说（假差评、假劝退、假抱怨）",
+      "sha256": "14f1b6cb87187e98e934caa518ec8fdaf9b58010c8ae3e1d7f46770d2d243869",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "cases/community_template/xiaoe-bc81257360fc80f7",
+        "sources/community/zsxq-14425582588152842"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "冲突对立、争议话题",
+      "sha256": "15b7cd96fce05eac45ba41aea67777f692db4bae9f24c8fb55b922aebcb21d0c",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/course/xuehui-63449afa0527b6cf",
+        "sources/community/zsxq-14425582588152842"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "直接下判断",
+      "sha256": "40b0d5466ac741481672bb5e7a6c6a8e60fc5639715def8263b7e5728c39ac77",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/xiaoe-3756ff11c99164d0",
+        "sources/community/zsxq-22258848121585841"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "稀罕东西、少见手艺",
+      "sha256": "1f08cf5b539243f7f8fb91f1c8986a3454604ea1d0b0071097aafede68c1e7a0",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/course/xuehui-fb0ac6992e574bae",
+        "sources/community/xiaoe-6636f68472101130"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "悬念：只说一半",
+      "sha256": "376b719fe44f27e0724b5868c4c0b23d28074fdbb4208d12de4beca5feed9fef",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/xiaoe-879d6cbfec43c00b",
+        "sources/community/xiaoe-70bd45d19aa8516f",
+        "sources/community/zsxq-22258822885284281"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "提问",
+      "sha256": "7b800bb67d27e7c134bf4cf4f14228ac15c29ab153989db3c2b979d662c6006d",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/xiaoe-886333a18f15b5e0",
+        "sources/community/zsxq-45548814455282258"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "揭秘内幕",
+      "sha256": "f31e3455dd469679ee03374427c7a0d8be0cd711c630e97ccb681784affbbd2e",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/xiaoe-76762dc8c780c417",
+        "sources/course/xuehui-8a2e86f3c76a2026"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "抛一个没听过的新词",
+      "sha256": "4c65330491a87d0d6592be00141b290e9680ab760a1ea87fff507eed9fe5f013",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/zsxq-45544222442481118",
+        "sources/community/xiaoe-9c81fcf6358d7900"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "亲测、挑战、盲盒",
+      "sha256": "898cf555ace11cf0865333362357d2cd2349a56f1133a2b0ac9ff219984b6d85",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/course/xuehui-7d0648dbacd04de3",
+        "sources/community/zsxq-82258822481481422"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "先交代有多难",
+      "sha256": "c1cb7c09fec7eb876ef3c115fad965427661d10f3028028f79f3a0bb061bc984",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/course/xuehui-02f20a09d341e817",
+        "sources/course/xuehui-76eac17074e74acc"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "点名目标人群",
+      "sha256": "0f0a4f06e0e19b871bc8d556613138733a58a1957dcd2f4e927e564e31721fce",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/zsxq-82258822481481422",
+        "sources/community/xiaoe-8582cd5951e4afce"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "说出处境和痛点",
+      "sha256": "32caf7a2b4f09a334cf8afce119bcd7d20d453ed8aa9dd1a8220f20b04021bd3",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/zsxq-45548581245488218",
+        "sources/community/zsxq-55521152545151254"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "替大家吐槽",
+      "sha256": "1f2b2c7b13057d6e5a284b57f854632d8ab8550962917adb70cc1d486290a82b",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/zsxq-82258881588221852",
+        "sources/community/zsxq-22258828542552541"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "替读者说话、说他爱听的",
+      "sha256": "e4219febee3a4a51fddea90b4c4b69fa3558e123f68c8f0a27cebbeec316c595",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/zsxq-82258844452841812",
+        "sources/course/xuehui-8560a68160006a42"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "警告：不这样做会吃亏",
+      "sha256": "982852f13cb974e7fa5653b59c3fdb246221c0be24cf5d0f8060bb6929230ff1",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/xiaoe-0fbf5991a5bfb861",
+        "cases/community_template/xiaoe-886333a18f15b5e0"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "直接说能得到什么",
+      "sha256": "24434a0daa06b3e30cfef98354820ce23c57238a3af43d833e9dadafdba0ccea",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "cases/community_template/xiaoe-0490bc3139811b1f",
+        "sources/course/xuehui-3a40c78211313078",
+        "sources/community/zsxq-82258824541251542"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "开门见山，第一句就是选题",
+      "sha256": "76595717ea6e05772abcf96499461fdba5fe775bf175d98719cd429cf351a6db",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/zsxq-22258281415428151",
+        "sources/community/xiaoe-f712f02838d98560"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "先亮结果",
+      "sha256": "f24f4dfb5a1a176b3d8521b03fb4728d6f0d02f9a9b22727eb347fa99ecc1d7f",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/zsxq-82258824541251542",
+        "sources/community/zsxq-45548581245488218"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "报一个扎眼的数字",
+      "sha256": "7f95bf2dba97fbcccbe11606fbef0cbdbfe172465c82623392742c837eadb4eb",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/xiaoe-e27a7846fb8d0eb3",
+        "sources/community/zsxq-22258822885284281"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "省钱、平替、花小钱",
+      "sha256": "81c00f25ce80abcfdcb4061912d4a8f0007f22e7fcb6828731b5e52a02c5994e",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/xiaoe-a73ed9b1c074b01e",
+        "sources/community/xiaoe-367f22cb25eda572"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "不推热门，推私藏",
+      "sha256": "a3e5ada440175355cde3b0f16a8fcdbd62a248fa6619e586b7673e0d53ab4767",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/zsxq-14425582588152842"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "让人羡慕的生活",
+      "sha256": "ce5d4c7ed3f1ffbc4669fc76ba0e5479df529d1dd3bfdd3ddb2cbd44b0e9d74d",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/xiaoe-ce6a4089cae1c5ac",
+        "sources/community/xiaoe-177b2bd98f552698"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "开口就叫人去做",
+      "sha256": "69ed54c86c22c88d8a5e44f7262807b12bdafd3117e02432f5fa56bb95c507ae",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/zsxq-55521144252514524",
+        "sources/community/xiaoe-5ac74927dbf629d9"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "一句带情绪的感叹",
+      "sha256": "e2ccf81fa6a5bb1dc63268caf2ba934bb7033ae4bcf02735c62a5c17c99a0309",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/xiaoe-6f4a5392ffd3066e",
+        "sources/community/xiaoe-69ec61e46ce001b6"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "自曝短处、先认错",
+      "sha256": "45f4f372bb412f66c50f75db5c658720bb17295291c783c1500ce24330ff604d",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/xiaoe-789513bcd2965e84",
+        "sources/community/zsxq-45548855415122258"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "开局就惨",
+      "sha256": "28f9e1bf2c9c5409617ec98324686942038c9a73d6c5257cc3c57977158affcd",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/xiaoe-9dc386081673f502",
+        "sources/community/xiaoe-b9175dab4e16b65c"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "从一个场景或一句对话切进去",
+      "sha256": "a406b42b77a397c5873fbf7ff6379ffbd8848660c10b8e34feb2d6cccb5ceab8",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/xiaoe-5f5aa9cd75626e1a",
+        "sources/community/zsxq-45548821182512488"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "换个人来讲",
+      "sha256": "36215b27ba8890cb04f210735ccf4fe8163beea18099c890e3c8110f2ffa7a9b",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/xiaoe-8276ae90f641095b",
+        "sources/community/zsxq-22258841545551241"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "先立 flag，等着打脸",
+      "sha256": "5999199689ed89b5081bad96f81b40b767f662cea25785b0cfd1864736651cc3",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/xiaoe-c06a30a32616d5f9"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "权威背书、晒人气",
+      "sha256": "5e8eac9ca8bc971eca4ddd8cad50a3166a411c1bc89680b4e07d433b3321e050",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/xiaoe-465afe882ddaa504",
+        "sources/community/zsxq-82258842481454222"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "蹭热点",
+      "sha256": "eb110ab613f9372de5b7281faddf4bfb0593dfa26465f15b97b4eb372c44580a",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/xiaoe-72a6abb63dc74d91",
+        "sources/course/xuehui-6fef825368cda9ad"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "借爆款的开头",
+      "sha256": "5a31d49ca856661213f4e7c9a3d77d440aeebf9dc60f7a8b13ed5f9854732e95",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/course/xuehui-6e4366f7b5095ec9",
+        "sources/community/xiaoe-96071ac21f27075b"
+      ]
+    },
+    {
+      "id": 37,
+      "title": "系列固定开场白",
+      "sha256": "11aacfbdd579f5226453071062a98896098c8bd776ba8493fbb9f1326d1b3749",
+      "fields": [
+        "怎么做",
+        "素材里要有",
+        "和相近写法的区别",
+        "变体",
+        "适合",
+        "别用在/风险",
+        "例子",
+        "来源数"
+      ],
+      "source_slugs": [
+        "sources/community/xiaoe-1ff35843955ba2a9",
+        "sources/community/xiaoe-6fc63d0d9896efa0"
+      ]
+    }
+  ],
+  "workflow_content_hash": "d6cc8e4a351a8ab4521ec59840640e65a2507a8bad8e166d203ac8a9c38e9577",
+  "quick_content_hash": "6f162c79c17b3c55ffcb82c7895a4859c802ab108b6dbb21bda10e8aa6bda5f7",
+  "scope": "Full opening-hook master page; not all 682 underlying candidate pages."
+}
