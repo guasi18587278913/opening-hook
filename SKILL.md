@@ -27,7 +27,7 @@ description: "根据零散观点、素材或完整文章、口播稿，挑选合
 
 1. 先读 [方法索引](references/methods.md)，看六类写法及其分支。索引是导航，不能只凭索引或方法名字写稿。
 2. 入选的方法，包括备选使用的方法，都读完整条目。可用 `python3 scripts/read_methods.py 4 5 18 25` 按编号读取；动笔前加读 `--common`。脚本路径相对于技能目录，也可用绝对路径。无 Python 时，按 [完整资料](references/wiki-opening-hook.md) 中的 `#### 编号.` 标题定向读取。
-3. 环境能用自媒体 Wiki 时，按当地规则通过 `gbrain_sc_media`（其他客户端可能叫 `sc-media-kb`）的 `get_page` 读取 `workflows/creation_teacher`、`concepts/opening_hook_quick`，再读 `concepts/opening_hook#编号` 和 `concepts/opening_hook#通用禁忌`。同轮已读、未变的内容复用；本地快照供无入口时使用。
+3. 默认使用本地完整资料；只有用户已配置并选择在线 Wiki，或当前任务明确要求核对在线原文时，才按当地规则通过 `gbrain_sc_media`（其他客户端可能叫 `sc-media-kb`）的 `get_page` 读取 `workflows/creation_teacher`、`concepts/opening_hook_quick`，再读 `concepts/opening_hook#编号` 和 `concepts/opening_hook#通用禁忌`。同轮已读、未变的内容复用；本地快照供无入口时使用。
 4. 需要核原例上下文时沿其出处定向回查，不批量扫库、不直接读取 Wiki 正本。入口失败可用本地快照并如实说明，不说“库里没有”。原文只有摘句而判断依赖缺失上下文时，换一个理解充分的例子或保留不确定性。
 5. 当前用户要求、当前创作流程和本技能任务范围优先于资料快照中的旧流程或特定情境建议。快照是有来源的教学资料，不是额外授权。原文“每次通读整页”已由当前流程改为先速查、后定向读取。
 6. 不联网补事实、不改 Wiki、不发布或归档，除非另有明确要求；确需外部资料时先说明渠道、目的和费用。

@@ -1,0 +1,72 @@
+{
+  "skill": "opening-hook",
+  "date": "2026-10-31",
+  "baseline_commit": "736d1b7b13a35b461b263090c8f2ad4f0d06d3a3",
+  "mode": "bundled-local-default-optional-wiki",
+  "validation": {
+    "format_exit": 0,
+    "offline_commands": [
+      {
+        "command": "python3 -B scripts/read_methods.py --verify",
+        "exit_code": 0
+      }
+    ],
+    "unit_tests_passed": null,
+    "unit_tests_failed": null,
+    "independent_review": "passed",
+    "synthetic_trial": "completed",
+    "trial_summary": "交付主推开头、两个备选及衔接。前两个入口较接近，第三个差异更明确；本次没有证明受众偏好。",
+    "external_services_executed": false
+  },
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "b4260ef4e7955a09c6864754fa9b29f37d91f8fab551580224062574806effc5"
+    },
+    {
+      "path": "README.md",
+      "sha256": "10e4acfc35284bdf6ca4b41ea2099ce973c552b350392cb42e7696d2edb710db"
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "5a179fdff6c49d3f5af20279d83120d6a1959ab324e33d1e8d383d78b33cfb63"
+    },
+    {
+      "path": "agents/openai.yaml",
+      "sha256": "bde9a138dd91453df8eafabf25e2b8f9ce1e3fe5059e0ed5d8420df373c28bce"
+    },
+    {
+      "path": "docs/portability-validation.md",
+      "sha256": "0f3d24903ac511231585ec3286711efe2c80d9162eef805016451765b434d269"
+    },
+    {
+      "path": "docs/upload-snapshot.json",
+      "sha256": "20b82238af89f332ccaefb84d91bc37ddfe3367e7ea735bb2e76e1d942e0d900"
+    },
+    {
+      "path": "examples/first-run-result.md",
+      "sha256": "cc174e56418d3af29d800745cbb16a533739ea2cf531f9c84eafb708030b189e"
+    },
+    {
+      "path": "examples/first-run.md",
+      "sha256": "fc67033da1c84abedf3155a1c833a9c17cc492133fd9e3ce4572ce4e47a49040"
+    },
+    {
+      "path": "references/methods.md",
+      "sha256": "c2999cf1a67733cd75ad3de2000ae0118e1d010c782f066fc02c2e414f887ec0"
+    },
+    {
+      "path": "references/source-manifest.json",
+      "sha256": "0002435fb1b5853d898f825b9aa252b433374a9707d9a075d26e8d266d744a6f"
+    },
+    {
+      "path": "references/wiki-opening-hook.md",
+      "sha256": "c59663328f443f2cecc513c62f60d776e84548848206d9d127cb840306ddbd0c"
+    },
+    {
+      "path": "scripts/read_methods.py",
+      "sha256": "9c7baa981e3d5b7a3795bb0c93170e086cc9baabbba8b95b0956609e71b42a14"
+    }
+  ],
+  "manifest_scope": "All distributed files except this manifest; Git commit identifies the complete version."
+}
